@@ -9,4 +9,20 @@
   <p>...</p>
   <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
 </div>
+<div class="panel panel-default">
+  <div class="Step1">
+    <h3 class="Step 1">Panel title</h3>
+  </div>
+  <div class="Bill is introduced in the House of Representatives or Senate.">
+    Panel content
+  </div>
+  <div class="panel panel-defaul">
+  <div class="Step 2">
+    <h3 class="Step 2">Panel title</h3>
+  </div>
+  <div class="Bill goes to a committee, where it may be amended.">
+    Panel content
+  </div>
+</div>
+</div>
 </div>

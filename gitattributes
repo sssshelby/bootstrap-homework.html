@@ -1,0 +1,51 @@
+<html>
+  <head>
+  <link rel="stylesheet" type="text/css" href="">
+    <meta charset="utf-8">
+  </head>
+<div class="container">
+  <div class="jumbotron">
+  <h1>Hello, world!</h1>
+  <p>...</p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+</div>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">step 1</h3>
+  </div>
+  <div class="panel-body">
+  Bill is introduced in the House of Representatives or Senate.
+  </div>
+</div>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">step 2</h3>
+  </div>
+  <div class="panel-body">
+  Bill goes to a committee, where it may be amended.
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">step 3</h3>
+    </div>
+    <div class="panel-body">
+Bill passes out of committee and is scheduled for floor debate.
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">step 4</h3>
+      </div>
+      <div class="panel-body">
+    Bill goes to the House or Senate floor, where it may be amended. If passed, it continues to the Governor.
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">step 5</h3>
+        </div>
+        <div class="panel-body">
+        Once the House and Senate have agreed on the bill's language, the governor signs it into law or vetoes it.
+        </div>
+
+</div>
+</div>
+</div>
